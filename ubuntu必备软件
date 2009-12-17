@@ -1,0 +1,99 @@
+1 git  git-core gnupg
+
+2 vim  -gone 
+
+3  sun-java6-jdk bison bison  libid3-dev 
+  flex bison gperf libsdl-dev libesd0-dev libwxgtk2.6-dev build-essential zip curl libncurses5-dev zlib1g-dev
+
+
+4 # make helloworld showcommands  显示编译命令行
+
+5  xrandr --dryrun
+
+6  subversion 
+
+7  geany   text IDE
+================================================================================
+2.
+
+        打开一个,vi 文件名
+        然后在vi的命令输入状态下输入
+        :sp 另外一个文件的路径及文件名
+
+        如此就可以在一个窗口打开多个文件了。
+        或者用 vi -o file1 file2 file3....用分割屏幕窗口方式同时打开多个文件。
+        可以使用 ctrl + 两次按 w 或者ctrl + w 然后按上下键在上下窗口间切换。
+3.
+        #  Format 1st partition with VFAT (store media files)
+        # mkfs.vfat /dev/sdb1
+
+        # Format 2nd partition with EXT3 (hold your Android rootfs)
+        # mkfs.ext3 /dev/sdb2 
+4.    dmesg [-cn][-s <缓冲区大小>]
+        kernel会将开机信息存储在ring buffer中。您若是开机时来不及查看信息，可利用dmesg来查看。开机信息亦保存在/var/log目录中，名称为dmesg的文件里。
+
+
+
+
+
+-rw-r--r-- 1 np np 105732 2009-08-11 10:08 libagl.so
+-rwxr-xr-x 1 np np  38996 2009-08-11 10:09 libskiagl.so
+
+================================================================================
+
+http://man.chinaunix.net/tech/lyceum/linuxK/tlk.html
+http://www.linuxgraphics.cn/android/skia.html
+http://www.linuxtv.org/wiki/index.php/Main_Page
+http://blog.chinaunix.net/u3/93290/showart_1858653.html
+http://www.bookfm.com/reader/online.html?bookid=105336
+
+http://blog.sina.com.cn/s/blog_49bdd36d0100eafj.html
+http://www.oschina.net/project/tag/143
+http://apit.blogbus.com/logs/25392894.html
+
+http://blog.csdn.net/housisong/archive/2007/04/27/1586717.aspx   //优化图像
+http://tali.admingilde.org/linux-docbook/                        // linux pdf download
+http://tech.it168.com/a2009/0331/270/000000270422_3.shtml        // android opencore
+http://gears.sourcearchive.com/documentation/0.5.21.0~svn3334plus-pdfsg-0ubuntu1/classes.html  //android API libs
+http://www.eefocus.com/article/09-04/71370s.html                 //多媒体framework
+http://www.limodev.cn/blog/archives/914
+http://blog.csdn.net/absurd/archive/2008/06/09/2527172.aspx      linux poke
+
+http://www.mozilla.org/projects/embedding/                       // enbedding mozila
+http://blog.sina.com.cn/s/blog_4dff58fc0100ayrb.html             // STB
+
+http://ishare.iask.sina.com.cn/  下载book pdf
+http://roclinux.cn/?p=605
+http://zh-tw.whygitisbetterthanx.com/
+http://www.360doc.com/topic.html#
+
+http://www.unix-center.net/bbs/viewthread.php?tid=15200        //ssh
+********************************************************************************
+myandroid/frameworks/base/opengl/tests/finish$ 
+
+/////////////////////////////////////////////////
+http://www.giichinese.com.cn/report/iz91148-mobile-handset_toc.html  //reporter
+/////////////////////////////////////////////////
+_____________________________________________________________________________
+通常来说,一个规则文件的首行以#!开头的,基本都是脚本文件,需要不同的解释器去解释并执行,如:
+#!/path/bash //shell脚本
+#!/path/perl  //perl脚本
+#!/path/awk //awk的脚本
+#!/path/php //php的脚本
+#!/path/expect //expect的脚本
+根据首行提供的不同信息,需用对应的解释器执行
+
+display : interface and buffer output way 
+
+graphacis : graphacis engneering , based lib .vertor lib . SVG . other Glib
+
+tag:图像旋转,任意角度,图像缩放,速度优化,定点数优化,近邻取样插值,二次线性插值,
+   三次卷积插值,MipMap链,三次线性插值,MMX\SSE优化,CPU缓存优化,AlphaBlend,颜色混合,并行
+
+
+
+
+
+
+
+
