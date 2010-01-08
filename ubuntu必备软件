@@ -63,9 +63,12 @@ http://www.mozilla.org/projects/embedding/                       // enbedding mo
 http://blog.sina.com.cn/s/blog_4dff58fc0100ayrb.html             // STB
 
 http://ishare.iask.sina.com.cn/  下载book pdf
+http://www.bookfm.com/reader/online.html?bookid=105336
 http://roclinux.cn/?p=605
 http://zh-tw.whygitisbetterthanx.com/
 http://www.360doc.com/topic.html#
+http://www.docin.com/p-33482132.html
+http://www.hebine.net/blog/archives/869.html
 
 http://www.unix-center.net/bbs/viewthread.php?tid=15200        //ssh
 ********************************************************************************
@@ -74,7 +77,12 @@ myandroid/frameworks/base/opengl/tests/finish$
 /////////////////////////////////////////////////
 http://www.giichinese.com.cn/report/iz91148-mobile-handset_toc.html  //reporter
 /////////////////////////////////////////////////
-_____________________________________________________________________________
+http://elinux.org/DMA_Copy_Of_Kernel_On_Startup
+http://elinux.org/Boot-up_Time_Reduction_Howto
+http://elinux.org/Main_Page
+git://git.videolan.org/vlc.git
+http://free-electrons.com/docs/
+___________________________________________________________________
 通常来说,一个规则文件的首行以#!开头的,基本都是脚本文件,需要不同的解释器去解释并执行,如:
 #!/path/bash //shell脚本
 #!/path/perl  //perl脚本
